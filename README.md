@@ -2,6 +2,7 @@
 
 Desenvolvimento do jogo Flappy Bird.
 Este projeto faz parte do curso de Web Moderno da Cod3r.
+
 ---
 
 ### Objetivo:
